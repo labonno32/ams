@@ -1,0 +1,38 @@
+body {
+	background: #ddd;
+	font-family: tahoma, arial, sans-serif;
+	font-size: 14px;
+}
+
+.box{
+	margin: 0 auto;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	width: 750px;
+	height: auto;
+	min-height: 350px;
+	padding: 40px;
+	margin-top: 45px;
+	background: #fff;
+}
+
+.italic{
+	font-style: italic;
+	font-size: 12px;
+}
+
+.warningText{
+	font-family: arial, sans-serif;
+	color: #ff77aa;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.admin{
+	color: #22cc33;
+	font-family: arial, sans-serif;
+}
+.teacher{
+	color: #66aaaa;
+	font-family: arial, sans-serif;
+}
